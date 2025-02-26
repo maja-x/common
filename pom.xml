@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>id.maja.x</groupId>
-    <artifactId>common</artifactId>
+    <groupId>id.maja</groupId>
+    <artifactId>xcore</artifactId>
     <version>0.0.3</version>
 
     <properties>
